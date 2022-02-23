@@ -71,12 +71,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     weight = 3
     url = "https://www.linkedin.com/in/erckmartn/"
 
-##
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-sublime"
-    weight = 3
-    url = "https://www.linkedin.com/in/erckmartn/"
+
 ##
 # Menu links
 [[menu.main]]
