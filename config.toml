@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
+baseurl = "http://erckmartn.github.io/site-erick/" # Hostname (and path) to the root.
 title = "Erick Martin" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
