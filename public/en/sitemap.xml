@@ -2,100 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>http://erckmartn.github.io/site-erick/posts/0003-third-post/</loc>
+    <lastmod>2022-02-23T16:02:56-05:00</lastmod>
+  </url><url>
+    <loc>http://erckmartn.github.io/site-erick/</loc>
+    <lastmod>2022-02-23T16:02:56-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://erckmartn.github.io/site-erick/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://erckmartn.github.io/site-erick/"
+                />
+  </url><url>
+    <loc>http://erckmartn.github.io/site-erick/posts/</loc>
+    <lastmod>2022-02-23T16:02:56-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://erckmartn.github.io/site-erick/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://erckmartn.github.io/site-erick/posts/"
+                />
+  </url><url>
+    <loc>http://erckmartn.github.io/site-erick/about/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/about/"
+                href="http://erckmartn.github.io/site-erick/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="http://erckmartn.github.io/site-erick/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>http://erckmartn.github.io/site-erick/contact/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/contact/"
+                href="http://erckmartn.github.io/site-erick/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="http://erckmartn.github.io/site-erick/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>http://erckmartn.github.io/site-erick/projects/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/projects/"
+                href="http://erckmartn.github.io/site-erick/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="http://erckmartn.github.io/site-erick/projects/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/asd/</loc>
+    <loc>http://erckmartn.github.io/site-erick/tags/asd/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/c-and-c&#43;&#43;-in-vscode/</loc>
+    <loc>http://erckmartn.github.io/site-erick/posts/c-and-c&#43;&#43;-in-vscode/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://www.example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/"
-                />
-  </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>http://erckmartn.github.io/site-erick/tags/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/posts/"
+                href="http://erckmartn.github.io/site-erick/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="http://erckmartn.github.io/site-erick/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <loc>http://erckmartn.github.io/site-erick/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/tags/"
+                href="http://erckmartn.github.io/site-erick/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
-                />
-  </url><url>
-    <loc>http://www.example.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://www.example.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/categories/"
+                href="http://erckmartn.github.io/site-erick/categories/"
                 />
   </url>
 </urlset>

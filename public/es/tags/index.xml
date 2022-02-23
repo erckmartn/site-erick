@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Erick Martin</title>
-    <link>http://www.example.com/es/tags/</link>
+    <link>http://erckmartn.github.io/site-erick/es/tags/</link>
     <description>Recent content in Tags on Erick Martin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://erckmartn.github.io/site-erick/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
