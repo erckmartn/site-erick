@@ -1,0 +1,59 @@
+name = "Coder"
+license = "MIT"
+licenselink = "https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.md"
+description = "A simple and clean blog theme for Hugo"
+homepage = "https://github.com/luizdepra/hugo-coder/"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive",
+  "simple",
+  "clean",
+  "personal"
+]
+features = [
+  "analytics",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "single-column",
+  "syntax-highlighting"
+]
+min_version = "0.79.0"
+
+[author]
+name = "Luiz F. A. de Prá"
+homepage = "https://luizdepra.com"
+
+[params]
+  author = "John Doe"
+  info = "Full Stack DevOps and Magician"
+  description = "John Doe's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css"]
+  customSCSS = ["scss/custom.scss"]
+  customJS = ["js/custom.js"]
+

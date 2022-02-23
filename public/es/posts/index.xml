@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Erick Martin</title>
+    <link>http://www.example.com/es/posts/</link>
+    <description>Recent content in Posts on Erick Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Feb 2022 22:49:43 -0500</lastBuildDate><atom:link href="http://www.example.com/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c y c&#43;&#43; en vscode [Windows 10]</title>
+      <link>http://www.example.com/es/posts/c-y-c&#43;&#43;-en-vscode/</link>
+      <pubDate>Mon, 21 Feb 2022 22:49:43 -0500</pubDate>
+      
+      <guid>http://www.example.com/es/posts/c-y-c&#43;&#43;-en-vscode/</guid>
+      <description>Hola, en esta publicación te enseñare a configurar tu entorno de desarrollo de C y C++ en VS code y ejecutar tu primer &amp;ldquo;Hola mundo&amp;rdquo;.
+Para empezar necesitas tener el VS Code instalado, si es que no lo tienes, descargalo aqui, esta disponible para Windows, MacOS y Linux.
+Una vez instalado el VS Code, necesitamos instalar el compilador el cual lo encontraras aqui. Veras que hay varias opciones para instalar este compilador, de acuerdo al sitema operativo que estemos utilizando.</description>
+    </item>
+    
+  </channel>
+</rss>
