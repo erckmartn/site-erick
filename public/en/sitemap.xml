@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://erckmartn.github.io/site-erick/posts/0003-third-post/</loc>
+    <loc>https://erckmartn.github.io/site-erick/posts/0003-third-post/</loc>
     <lastmod>2022-02-23T16:02:56-05:00</lastmod>
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/</loc>
-    <lastmod>2022-02-23T16:02:56-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://erckmartn.github.io/site-erick/"
-                />
-  </url><url>
-    <loc>http://erckmartn.github.io/site-erick/posts/</loc>
+    <loc>https://erckmartn.github.io/site-erick/</loc>
     <lastmod>2022-02-23T16:02:56-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/posts/"
+                href="https://erckmartn.github.io/site-erick/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/posts/"
+                href="https://erckmartn.github.io/site-erick/"
                 />
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/about/</loc>
+    <loc>https://erckmartn.github.io/site-erick/posts/</loc>
+    <lastmod>2022-02-23T16:02:56-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://erckmartn.github.io/site-erick/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://erckmartn.github.io/site-erick/posts/"
+                />
+  </url><url>
+    <loc>https://erckmartn.github.io/site-erick/about/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/about/"
+                href="https://erckmartn.github.io/site-erick/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/about/"
+                href="https://erckmartn.github.io/site-erick/about/"
                 />
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/contact/</loc>
+    <loc>https://erckmartn.github.io/site-erick/contact/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/contact/"
+                href="https://erckmartn.github.io/site-erick/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/contact/"
+                href="https://erckmartn.github.io/site-erick/contact/"
                 />
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/projects/</loc>
+    <loc>https://erckmartn.github.io/site-erick/projects/</loc>
     <lastmod>2022-02-21T22:08:28-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/projects/"
+                href="https://erckmartn.github.io/site-erick/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/projects/"
+                href="https://erckmartn.github.io/site-erick/projects/"
                 />
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/tags/asd/</loc>
+    <loc>https://erckmartn.github.io/site-erick/tags/asd/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/posts/c-and-c&#43;&#43;-in-vscode/</loc>
+    <loc>https://erckmartn.github.io/site-erick/posts/c-and-c&#43;&#43;-in-vscode/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/tags/</loc>
+    <loc>https://erckmartn.github.io/site-erick/tags/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/tags/"
+                href="https://erckmartn.github.io/site-erick/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/tags/"
+                href="https://erckmartn.github.io/site-erick/tags/"
                 />
   </url><url>
-    <loc>http://erckmartn.github.io/site-erick/categories/</loc>
+    <loc>https://erckmartn.github.io/site-erick/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://erckmartn.github.io/site-erick/es/categories/"
+                href="https://erckmartn.github.io/site-erick/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://erckmartn.github.io/site-erick/categories/"
+                href="https://erckmartn.github.io/site-erick/categories/"
                 />
   </url>
 </urlset>
